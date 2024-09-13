@@ -4,6 +4,7 @@ import Ex01 from './views/Ex01';
 import Ex02 from './views/Ex02';
 import Ex03 from './views/Ex03';
 import Ex04 from './views/Ex04';
+import Ex05 from './views/Ex05';
 import Ex06 from './views/Ex06';
 import Ex07 from './views/Ex07';
 
@@ -18,6 +19,7 @@ function App() {
           <Route path='/Ex02' element={<Ex02 />} />
           <Route path='/Ex03' element={<Ex03 />} />
           <Route path='/Ex04' element={<Ex04 />} />
+          <Route path='/Ex05' element={<Ex05 />} />
           <Route path='/Ex06' element={<Ex06 />} />
           <Route path='/Ex07' element={<Ex07 />} />
           

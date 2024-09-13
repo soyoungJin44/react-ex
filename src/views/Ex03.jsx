@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 
 //import css
 import '../css/reset.css';
-import '../css/Ex03.css';
+
 
 
 //import 컴포넌트
