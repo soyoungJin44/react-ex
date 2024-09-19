@@ -33,6 +33,7 @@ const Ex03 = () => {
     }
 
     /*---생명주기 + 이벤트 관련 메소드 ----------------------*/
+    /* link 의 rel="" 부분에 noopener:새창에서 원래페이지 접근 차단 // 보안상의 이유로 넣어줌 */
 
     return (
         <>
@@ -45,7 +46,7 @@ const Ex03 = () => {
             <h2>프로필사진</h2>
                 <img src="./images/jung.jpg" alt="정우성 프로필 사진"/>
                 <br/>
-                <Link to="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9A%B0%EC%84%B1" rel="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9A%B0%EC%84%B1">위키백과 정우성</Link>
+                <Link to="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9A%B0%EC%84%B1" rel="noopener">위키백과 정우성</Link> 
             <h2>정보</h2>
 
             <table style={boxSize} border="1">
