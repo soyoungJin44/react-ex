@@ -37,7 +37,7 @@ const Ex05 = () => {
                 <p class="jungwoo">사장 정우성</p> <br/>
                 <h2>모집요강</h2>
 
-                <table style={boxSize} border="1">
+                <table style={boxSize} border="2">
                     <thead>
                         <tr>
                             <th colSpan="2"> 모집직군 </th>

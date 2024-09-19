@@ -18,8 +18,8 @@ ul, ol {
 
 /* 텍스트 관련 초기화 */
 h1, h2, h3, h4, h5, h6 {
-    font-size: inherit; /* 상속된 폰트 사이즈 사용 */
-    font-weight: normal; /* 기본 폰트 두께 설정 */
+   /* font-size: inherit; /* 상속된 폰트 사이즈 사용 */
+   /* font-weight: normal; /* 기본 폰트 두께 설정 */
 }
 
 /* 테이블 스타일 초기화 */

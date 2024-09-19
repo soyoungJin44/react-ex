@@ -12,11 +12,14 @@
     width: 34%;
 }
 
-
-
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
 
 .jungwoo {
     text-align: right;
     font-size: 18px;
     font-weight: bold;;
 }
+
